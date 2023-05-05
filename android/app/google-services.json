@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148710440148",
+    "project_id": "mapgan-e0fad",
+    "storage_bucket": "mapgan-e0fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148710440148:android:0725b0067b1125017f0f41",
+        "android_client_info": {
+          "package_name": "com.example.proj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148710440148-pgbsd9ua8vp5aqcrttogkp1gp8vb0g23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxFmUGsEssegBCJIBA98Ddn6agoDxVo1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148710440148-pgbsd9ua8vp5aqcrttogkp1gp8vb0g23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
